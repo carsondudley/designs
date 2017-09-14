@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+.navbar{
+	padding: 10px;
+	background-color: #07020D;
+}
+
+#about{
+	height: 100%;
+	background-color: #07020D;
+	color: white;	
+}
+
+#portfolio{
+	background-color: #F1E9DB;
+}
+
+#contact{
+	background-color: #A39B8B;
+}
+
+#about, #portfolio, #contact{
+	padding-top: 60px;
+	height: 100vh;
+	padding-left: 50px;
+}
