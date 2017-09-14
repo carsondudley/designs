@@ -28,4 +28,9 @@
 	padding-top: 60px;
 	height: 100vh;
 	padding-left: 50px;
+	font-family: 'Lato';
+}
+
+.contact-body{
+	text-align: center;
 }
