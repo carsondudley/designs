@@ -27,6 +27,7 @@
 #about, #portfolio, #contact{
 	padding-top: 60px;
 	height: 100vh;
+	width: 100%;
 	padding-left: 50px;
 	font-family: 'Lato';
 }
@@ -34,3 +35,4 @@
 .contact-body{
 	text-align: center;
 }
+
